@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in web development, mobile app development, software engineering methodologies, and UX/UI design.
   
-- 🌱 I’m currently learning about modern web development frameworks like React.js, as well as mastering backend technologies such as Node.js and Django. Additionally, I'm diving into mobile app development using platforms like Flutter.
+- 🌱 I’m currently learning about modern web development frameworks like React.js, as well as mastering backend technologies such as Django. Additionally, I'm diving into mobile app development using platforms like Flutter.
   
 - 💞️ I’m looking to collaborate on web and mobile app development projects that focus on enhancing user experience, optimizing performance, and ensuring robust security measures.
   
